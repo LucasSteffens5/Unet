@@ -1,4 +1,15 @@
-# Unet_test
+# Unet
+##Semantic Segmentation with UNET.
+Based on [Unet](https://github.com/zhixuhao/unet)
+
+The images must all be in .tif and with the standard dimension in both the data.py and unet.py scipts.
+
+It is important to update the path of the files in the scripts.
+
+The database can be downloaded [here.](https://drive.google.com/file/d/1JiOUozfjRaz_FgMCjNaRRB8_65zSXEZN/view?usp=sharing)
+
+
+##Segmentação semântica com UNET.
 
 Baseado em [Unet](https://github.com/zhixuhao/unet)
 
